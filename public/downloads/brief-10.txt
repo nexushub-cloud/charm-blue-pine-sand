@@ -1,0 +1,5 @@
+MT MEDIA.Client — Brief tháng 10
+Mã file: FS-BRIEF
+Thông điệp: file có khóa, acc có mã.
+Đầu việc: 1 video 15 giây, 3 ảnh tin đăng, 1 catalog.
+Người duyệt: client MT MEDIA.

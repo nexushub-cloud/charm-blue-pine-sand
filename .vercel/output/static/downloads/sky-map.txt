@@ -1,0 +1,4 @@
+MT MEDIA.Client — Sơ đồ đảo Skyblock
+Mã file: FS-SKY
+Tầng 1 farm. Tầng 2 kho. Tầng 3 điểm đứng máy quay.
+Dùng khi quay tin BlockMan Go. Không chứa đăng nhập.

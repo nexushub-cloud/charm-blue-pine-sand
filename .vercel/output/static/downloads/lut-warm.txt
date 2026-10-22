@@ -1,0 +1,4 @@
+MT MEDIA.Client — Preset màu
+Mã file: FS-LUT
+Hướng màu: giấy ngà, bóng mực, điểm nhấn đỏ.
+Dùng cho thumbnail và highlight. Bản LUT đầy đủ gắn bằng liên kết riêng trong database.json.

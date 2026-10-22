@@ -1,0 +1,5 @@
+MT MEDIA.Client — Bộ nhận diện
+Mã file: FS-LOGO
+Đây là phiếu giao demo. Wordmark: MT MEDIA.Client
+Màu mực #1C1915, giấy #F4F0E6, signal #9E1B12, đồng #6D4C24.
+Thay liên kết trong database.json nếu bạn có file ZIP thật.

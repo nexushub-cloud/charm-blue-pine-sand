@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "MT MEDIA.Client",
+      "hasCanvas": false,
+      "bodyTextLen": 1051,
+      "bodyTextHash": "682b5e87a18c38c75269ce6539e8ed14493faf7089f7c6b33b1ec2244ed1eae1",
+      "bodyTextPrefix": "MT MEDIA.Client Home FileShare Shop Phòng client File có khóa. A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "MT MEDIA.Client",
+      "hasCanvas": false,
+      "bodyTextLen": 1031,
+      "bodyTextHash": "88118dbe460dc147e7be761ba6dc186a5ee5ab0ee572b84cbbc5d250bc78fc97",
+      "bodyTextPrefix": "MT MEDIA.Client Phòng client File có khóa. Acc có mã. Kho file c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
